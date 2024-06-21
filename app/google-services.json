@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950531639730",
+    "project_id": "signin-5c3c4",
+    "storage_bucket": "signin-5c3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950531639730:android:45d525fee8666189e6bcab",
+        "android_client_info": {
+          "package_name": "com.example.bmicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6m47QAAYC_sJPGtmTOqaV9tjudq3gJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
